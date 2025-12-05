@@ -7,6 +7,7 @@ public class StackDemo {
         st1.push(4);
         st1.push(5);
         st1.push(8);
+        // st1.pop();
 
         int index=st1.search(5); 
         System.out.println(index);
@@ -14,6 +15,6 @@ public class StackDemo {
 
 
 
-        // st1.pop();
+        
     }
 }
